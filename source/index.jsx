@@ -13,6 +13,6 @@ require('./styles/main.scss');
 
 render(
     <Home />,
-    // Define your router and replace <Home /> with it!
+    
     document.getElementById('app')
 );
